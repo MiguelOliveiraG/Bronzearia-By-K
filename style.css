@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+background:linear-gradient(#F0981A 0%, #F38C26 100% );
+
+}
+#baner{
+    width: 100% ;
+
+}
+#menu{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#maps iframe{ 
+    width:100%;
+}
+#oi{
+    width: 50px;
+}
+#fale{
+text-align: left;    
+}
+.icon{
+    width: 30px;
+}
